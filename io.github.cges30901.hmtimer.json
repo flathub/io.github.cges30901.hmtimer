@@ -22,8 +22,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/cges30901/hmtimer/releases/download/hmtimer-2.6.2/hmtimer-2.6.2-src.tar.bz2",
-          "sha256": "da745155773cf3634cece10ab483097a2c375b23cf9347e3a10f6a35a2bab082"
+          "url": "https://github.com/cges30901/hmtimer/releases/download/hmtimer-3.0.0/hmtimer-3.0.0-src.tar.bz2",
+          "sha256": "f49b922c5e91b7612b89b2ccd3b8d6f3f8d257ebfb663748362e7c070b25214a"
         }
       ]
     },
