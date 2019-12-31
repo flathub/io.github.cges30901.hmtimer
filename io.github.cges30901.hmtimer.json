@@ -9,7 +9,6 @@
     "--share=ipc",
     "--socket=wayland",
     "--device=dri",
-    "--share=network",
     "--system-talk-name=org.freedesktop.login1",
     "--socket=pulseaudio"
   ],
