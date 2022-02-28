@@ -4,7 +4,7 @@
   "runtime-version": "5.15-21.08",
   "sdk": "org.kde.Sdk",
   "command": "hmtimer",
-  "finish-args": [ 
+  "finish-args": [
     "--socket=x11",
     "--share=ipc",
     "--socket=wayland",
@@ -21,8 +21,8 @@
       "sources": [
         {
           "type": "archive",
-          "url": "https://github.com/cges30901/hmtimer/releases/download/v3.1.0/hmtimer-3.1.0-src.tar.bz2",
-          "sha256": "72aa147947ddf39fbda2346ea7922d9ab428675ed3441b1762b1e9b599226cab"
+          "url": "https://github.com/cges30901/hmtimer/releases/download/v3.2.1/hmtimer-3.2.1-src.tar.bz2",
+          "sha256": "45ae8aafc4f4bccbfb8bebe5726bc708add0108e8105e5e9111495e7f9d241c3"
         }
       ]
     },
